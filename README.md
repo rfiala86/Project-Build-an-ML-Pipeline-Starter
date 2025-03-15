@@ -1,5 +1,5 @@
 
-Link to wanb: https://wandb.ai/rfiala86-western-governors-university/nyc_airbnb/artifacts/dataset/clean_sample.csv/v1
+Link to wandb: https://wandb.ai/rfiala86-western-governors-university/nyc_airbnb/artifacts/dataset/clean_sample.csv/v1
 
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
