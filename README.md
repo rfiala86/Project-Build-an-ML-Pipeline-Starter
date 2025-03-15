@@ -1,3 +1,7 @@
+
+Link to wanb: https://wandb.ai/rfiala86-western-governors-university/nyc_airbnb/artifacts/dataset/clean_sample.csv/v1
+
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
